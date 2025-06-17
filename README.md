@@ -129,4 +129,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  Monday 16 June 2025
+
+
+Update: Manifest links
