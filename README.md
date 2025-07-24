@@ -149,4 +149,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  21.07.2025 22:02:34
+
+
+Update: url is now responsive and operational
