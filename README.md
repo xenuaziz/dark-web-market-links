@@ -151,4 +151,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: url is now responsive and operational
+
+
+Update:  04 August Link is now clickable and functioning
